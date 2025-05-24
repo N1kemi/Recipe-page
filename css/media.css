@@ -1,0 +1,19 @@
+@media (max-width: 600px) {
+  .recipe-page {
+    width: 100%;
+    gap: 1rem;
+    padding: 0;
+    margin: 0;
+  }
+  .recipe-page-content {
+    padding: 1.6rem;
+  }
+
+  .recipe-page__image {
+    border-radius: 0;
+  }
+
+  .attribution {
+    padding-top: 2rem;
+  }
+}
