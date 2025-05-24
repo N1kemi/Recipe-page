@@ -26,8 +26,8 @@ Recipe page
 
 ### Links
 
-- Solution URL: [N1kemi](https://github.com/N1kemi/Social-links-profile)
-- Live Site URL: [Website](https://n1kemi.github.io/Social-links-profile/)
+- Solution URL: [N1kemi](https://github.com/N1kemi/Recipe-page?tab=readme-ov-file)
+- Live Site URL: [Website](https://n1kemi.github.io/Recipe-page/)
 
 ## My process
 
